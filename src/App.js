@@ -16,6 +16,11 @@ export default function App() {
           <button style={{padding:"10px 20px",marginTop:"20px"}}>Book via WhatsApp</button>
         </a>
       </section>
+  <section style={{padding:"40px", textAlign:"center"}}>
+  <h2>Our Work</h2>
+  <img src="/images/car1.jpg" width="300" style={{margin:"10px"}} />
+  <img src="/images/car2.jpg" width="300" style={{margin:"10px"}} />
+</section>
 
       <section style={{padding:"40px",textAlign:"center"}}>
         <h2>Services</h2>
